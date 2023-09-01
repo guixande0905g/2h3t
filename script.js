@@ -1,0 +1,5 @@
+() =>
+
+clicado () {
+    alert("Alô Mundo")
+}
