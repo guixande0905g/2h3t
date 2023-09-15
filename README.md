@@ -1,2 +1,2 @@
-# DUPLA
-## Guilherme 11 -- Enzo 37
+# Dupla
+## Enzo (37) -- Guilherme (11)
