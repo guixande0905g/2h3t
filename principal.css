@@ -1,0 +1,29 @@
+.calc_simples{
+ background-color: brown;
+ padding: 5px;
+ width: 200px;
+ border-radius: 5px;
+}
+.visor{
+    text-align: center;
+    background-color: transparent;
+   
+    
+}
+#resultado{
+    background-color: black;
+    color: yellow;
+
+}
+.teclas {
+    padding: 5px;
+    text-align: center;
+
+}
+button{
+    width: 40px;
+    height: 40px;
+}
+#igual {
+    background-color: tomato;
+}
