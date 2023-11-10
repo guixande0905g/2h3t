@@ -1,0 +1,36 @@
+.calc_simples{
+    background-color: crimson;
+    padding: 5px;
+    width: 240px;
+    border-radius: 10px;
+}
+
+.visor{
+    text-align: center;
+    background-color: transparent;
+}
+
+#resultado {
+    background-color: #a4ea4f;
+    color: yellow;
+}
+
+.tecla{
+    text-align: center;
+    padding: 5px;
+}
+
+button{
+    width: 50px;
+    height: 50px;
+}
+
+#igual {
+    background-color: #a4ea4f;
+}
+
+.entrada{
+    width: 36px;
+    border: none;
+    border-bottom: 2px solid black;
+}
